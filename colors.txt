@@ -6,4 +6,4 @@ blue
 indigo
 violate
 
-BLACK
+BLACK Color
