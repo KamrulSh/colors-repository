@@ -1,2 +1,5 @@
 New file added to the file
 After amend it has been updated
+hello world
+added
+added
