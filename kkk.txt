@@ -3,3 +3,9 @@ After amend it has been updated
 hello world
 added
 added
+
+692162d Merge pull request #2 from PrinceCuet77/thirdCopyMaster
+911b8c8 add test_2.txt
+e40b7d8 add test.txt
+2d441eb add final.txt
+7d821a6 Add black commit
