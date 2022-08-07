@@ -32,9 +32,6 @@ else:
     print(num, "is a prime number")
 
 # updated code
-<< << << < Updated upstream
 # print(num, "is not a prime number")
 # first pop then apply
-== == == =
->>>>>> > Stashed changes
 # check if flag is True
