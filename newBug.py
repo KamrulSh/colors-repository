@@ -9,3 +9,4 @@ else:
     print("{0} is Odd".format(num))
 
 # fixed bug
+# # fixed bug 2
