@@ -33,3 +33,4 @@ else:
     print(num, "is a prime number")
 
 # updated code
+# check if flag is True
